@@ -41,6 +41,10 @@ body {
 
 }
 
+.bgc-black {
+    background-color: #23272A;
+}
+
 /* header */
 header {
     background-color: lightblue;
@@ -143,9 +147,11 @@ li {
 
 footer {
     justify-content: center;
+    color: white;
 }
 
 #footer {
+
     display: flex;
     flex-direction: row;
     height: 100px;
@@ -159,6 +165,7 @@ footer {
 }
 
 #footer-container {
+    color: white;
     justify-content: center;
     align-items: center;
 }
