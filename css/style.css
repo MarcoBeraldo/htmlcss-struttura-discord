@@ -66,7 +66,6 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    align-items: space-around;
 }
 
 .intro-container {
@@ -136,7 +135,6 @@ h3 {
 
 .link-list {
     flex-direction: column;
-    justify-content: baseline;
 
 
 }
